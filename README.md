@@ -1,3 +1,6 @@
+## 1. PRD Refinado no Copilot Web
+
+```markdown
 # PRD – Aplicativo de Organização de Finanças Pessoais
 
 ## 1. Contexto
@@ -55,11 +58,36 @@ Design Universal é uma abordagem de design que busca criar produtos, serviços 
 - Dimensão e espaço apropriados: interface adaptada para diferentes dispositivos e necessidades.
 
 Em resumo: design universal é pensar no usuário mais diverso possível — desde quem tem alta familiaridade com tecnologia até quem está começando, incluindo pessoas com limitações visuais, motoras ou cognitivas.
+```
 
+## 2. Interações
+
+```txt
+## 1. Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document)
+  PRD Refinado no Copilot Web
+
+## 2. Deu essa msg Sorry, we ran into an issue starting the live preview!
+  Erro corrigido
+
+## 3. Tentei criar a meta mas não cria, parece que não está habilitado. Gostaria de ver os graficos e extratos
+  Erro corrigindo mas acabou os créditos
+
+```
+
+## 3. Prints do APP:
 
 Link do Assistente criado junto ao Lovable: https://converse-cash-guide.lovable.app/
 Obs.: Não consegui melhorar pois me faltaram créditos para isso
 
-Chat: ![alt text](image.png)
-Metas: ![alt text](image-1.png)
-Relatórios: ![alt text](image-2.png)
+Chat:
+<img width="474" height="580" alt="image" src="https://github.com/user-attachments/assets/10372b4f-4141-4460-9212-810506db5afb" />
+
+
+Metas:
+<img width="474" height="591" alt="image" src="https://github.com/user-attachments/assets/21a67d3d-2626-490a-a1dc-2a8895025080" />
+
+
+Relatórios:
+<img width="466" height="593" alt="image" src="https://github.com/user-attachments/assets/304372da-0d5a-458c-83a6-12559d45ffb8" />
+
+
