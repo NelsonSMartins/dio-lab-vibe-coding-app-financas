@@ -77,6 +77,7 @@ Em resumo: design universal é pensar no usuário mais diverso possível — des
 ## 3. Prints do APP:
 
 Link do Assistente criado junto ao Lovable: https://converse-cash-guide.lovable.app/
+
 Obs.: Não consegui melhorar pois me faltaram créditos para isso
 
 Chat:
